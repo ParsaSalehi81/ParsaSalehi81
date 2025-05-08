@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParsaOfRivia
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning and signal processing
 - 🌱 I’m currently learning electrical engineering
 - 📫 How to reach me @Parsa_Salehi81 on telegram
 
